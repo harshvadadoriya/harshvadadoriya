@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Vadadoriya
 👋 A passionate Software Developer from India. <br/>
-💎 I'm currently working on building innovative ERP software solutions for the diamond and jewelry industry. <br/>
+💎 I'm currently focused on developing innovative accounting ERP software solutions that enhance efficiency in the diamond and jewelry industry. <br/>
 🤝 Let's connect and create something extraordinary together!
 
 
